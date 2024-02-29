@@ -25,7 +25,8 @@ namespace PracticalWork_2._7
                 $"Баллы по физике: {physicsScores}");
 
             Console.WriteLine();
-            Console.WriteLine();      
+            Console.WriteLine("Для вывода задания 2. Нажмите любую клавишу.");
+            Console.ReadKey();
 
             // Задание 2
             float amountOfPoints;
